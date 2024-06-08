@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="description" content="Data Visualisation" />
+  <meta name="keywords" content="HTML, CSS" />
+  <meta name="author" content="Vireak Punhak Vorn Tan" />
+
+  <title>Covid 19</title>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <script type="text/javascript"
+    src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.2.1.min.js"></script>
+
+  <script>
+    $(document).ready(function () {
+      $('[data-toggle="tooltip"]').tooltip()
+    }); 
+  </script>
+</head>
+
+<body style="background-color: lightyellow;">
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="#">Covid19</a>
+    <div class="collapse navbar-collapse" id="navbarNavDropdown">
+      <ul class="navbar-nav">
+        <li class="nav-item active">
+          <a class="nav-link" href="covid19.html">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="linechart.html">Death, Case & Vacination</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="fatalityrate.html">Fatality Rate</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+
+  <div class="d-flex justify-content-center">
+    <h1 class="display-6">How are the COVID-19 mortalities around the world?</h1>
+  </div>
+  <p class="m-5 px-5 lead d-flex justify-content-center">
+    Embark on a captivating journey through the global narrative of COVID-19's impact with our immersive visualization.
+    Explore vibrant maps depicting mortality rates across the world, each color revealing a story of resilience and
+    solidarity. Dive deep into the data with interactive features, from hovering over countries for detailed insights to
+    zooming in for local perspectives. Uncover the untold stories of heroism and innovation that emerged during the
+    pandemic, fostering connection and understanding in a world grappling with uncertainty. Join us as we navigate
+    through the complexities of this shared experience, seeking wisdom and hope amidst the challenges we face.
+  </p>
+  <div class="d-flex justify-content-center">
+    <div class="d-flex flex-column bd-highlight p-3 mb-1">
+      <div class="form-check">
+        <input id="uselog" class="form-check-input" type="checkbox" value="overally" checked>
+        <label class="form-check-label" for="uselog">
+          View in Logarithmic Scale
+        </label>
+      </div>
+      <div class="form-check comparator">
+        <input class="form-check-input" type="radio" name="flexRadioDefault" value="overally" checked>
+        <label class="form-check-label" for="test">
+          Compare Overally
+        </label>
+      </div>
+      <div class="form-check comparator">
+        <input class="form-check-input" value="yearly" type="radio" name="flexRadioDefault">
+        <label class="form-check-label" for="flexRadioDefault2">
+          Compare Yearly
+        </label>
+      </div>
+    </div>
+    <div class="d-flex flex-column bd-highlight p-3 mb-3">
+      <svg id="chart1"></svg>
+    </div>
+    <div class="d-flex flex-column bd-highlight p-3 mb-3" style="flex: 0 0 100px;">
+      <div id="legendcolcontainer" class="d-flex flex-column bd-highlight mb-1">
+      </div>
+
+    </div>
+  </div>
+  <div></div>
+  <div class="container">
+    <div class="center">
+      <button class="yearbtn btn btn-danger" onclick="plotyear('2020')" id="2020">2020</button>
+      <button class="yearbtn btn btn-danger" onclick="plotyear('2021')" id="2021">2021</button>
+      <button class="yearbtn btn btn-danger" onclick="plotyear('2022')" id="2022">2022</button>
+      <button class="yearbtn btn btn-danger" onclick="plotyear('2023')" id="2023">2023</button>
+      <button class="yearbtn btn btn-danger" onclick="plotyear('2024')" id="2024">2024</button>
+    </div>
+
+  </div>
+  <i id="mytooltip" />
+  <div id="tooltip" data-toggle="tooltip" data-html="true" data-placement="right" title="Tooltip for image"
+    data-animation="false" data-trigger="manual"></div>
+  <script src="covid19.js"></script>
+
+  <footer>
+    <p>COS30045 Data Visualisation</p>
+    <p>CL01_T06</p>
+  </footer>
+</body>
+
+</html>

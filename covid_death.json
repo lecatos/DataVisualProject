@@ -1,0 +1,980 @@
+[
+ {
+  "country": "Slovenia",
+  "code": "SVN",
+  "year": "2020",
+  "value": 3129
+ },
+ {
+  "country": "Slovenia",
+  "code": "SVN",
+  "year": "2021",
+  "value": 3024
+ },
+ {
+  "country": "Slovenia",
+  "code": "SVN",
+  "year": "2022",
+  "value": 2718
+ },
+ {
+  "country": "Slovenia",
+  "code": "SVN",
+  "year": "2023",
+  "value": 734
+ },
+ {
+  "country": "Denmark",
+  "code": "DNK",
+  "year": "2020",
+  "value": 1014
+ },
+ {
+  "country": "Denmark",
+  "code": "DNK",
+  "year": "2021",
+  "value": 24
+ },
+ {
+  "country": "Denmark",
+  "code": "DNK",
+  "year": "2022",
+  "value": 779
+ },
+ {
+  "country": "Denmark",
+  "code": "DNK",
+  "year": "2023",
+  "value": 1079
+ },
+ {
+  "country": "Belgium",
+  "code": "BEL",
+  "year": "2020",
+  "value": 19748
+ },
+ {
+  "country": "Belgium",
+  "code": "BEL",
+  "year": "2021",
+  "value": 8232
+ },
+ {
+  "country": "Belgium",
+  "code": "BEL",
+  "year": "2022",
+  "value": 4824
+ },
+ {
+  "country": "Italy",
+  "code": "ITA",
+  "year": "2020",
+  "value": 80915
+ },
+ {
+  "country": "Italy",
+  "code": "ITA",
+  "year": "2021",
+  "value": 60665
+ },
+ {
+  "country": "Italy",
+  "code": "ITA",
+  "year": "2022",
+  "value": 51749
+ },
+ {
+  "country": "Italy",
+  "code": "ITA",
+  "year": "2023",
+  "value": 7948
+ },
+ {
+  "country": "Mexico",
+  "code": "MEX",
+  "year": "2020",
+  "value": 150442
+ },
+ {
+  "country": "Mexico",
+  "code": "MEX",
+  "year": "2021",
+  "value": 153583
+ },
+ {
+  "country": "Mexico",
+  "code": "MEX",
+  "year": "2022",
+  "value": 27503
+ },
+ {
+  "country": "Mexico",
+  "code": "MEX",
+  "year": "2023",
+  "value": 3430
+ },
+ {
+  "country": "Finland",
+  "code": "FIN",
+  "year": "2020",
+  "value": 579
+ },
+ {
+  "country": "Finland",
+  "code": "FIN",
+  "year": "2021",
+  "value": 1086
+ },
+ {
+  "country": "Finland",
+  "code": "FIN",
+  "year": "2022",
+  "value": 6778
+ },
+ {
+  "country": "Finland",
+  "code": "FIN",
+  "year": "2023",
+  "value": 1835
+ },
+ {
+  "country": "Ireland",
+  "code": "IRL",
+  "year": "2020",
+  "value": 2328
+ },
+ {
+  "country": "Ireland",
+  "code": "IRL",
+  "year": "2021",
+  "value": 3810
+ },
+ {
+  "country": "Ireland",
+  "code": "IRL",
+  "year": "2022",
+  "value": 2211
+ },
+ {
+  "country": "Ireland",
+  "code": "IRL",
+  "year": "2023",
+  "value": 738
+ },
+ {
+  "country": "Australia",
+  "code": "AUS",
+  "year": "2020",
+  "value": 922
+ },
+ {
+  "country": "Australia",
+  "code": "AUS",
+  "year": "2021",
+  "value": 1558
+ },
+ {
+  "country": "Australia",
+  "code": "AUS",
+  "year": "2022",
+  "value": 16430
+ },
+ {
+  "country": "Australia",
+  "code": "AUS",
+  "year": "2023",
+  "value": 5301
+ },
+ {
+  "country": "Netherlands",
+  "code": "NLD",
+  "year": "2020",
+  "value": 12205
+ },
+ {
+  "country": "Netherlands",
+  "code": "NLD",
+  "year": "2021",
+  "value": 8887
+ },
+ {
+  "country": "Netherlands",
+  "code": "NLD",
+  "year": "2022",
+  "value": 1894
+ },
+ {
+  "country": "United Kingdom",
+  "code": "GBR",
+  "year": "2020",
+  "value": 267727
+ },
+ {
+  "country": "United Kingdom",
+  "code": "GBR",
+  "year": "2021",
+  "value": 252132
+ },
+ {
+  "country": "United Kingdom",
+  "code": "GBR",
+  "year": "2022",
+  "value": 150216
+ },
+ {
+  "country": "United Kingdom",
+  "code": "GBR",
+  "year": "2023",
+  "value": 77636
+ },
+ {
+  "country": "United States",
+  "code": "USA",
+  "year": "2020",
+  "value": 392818
+ },
+ {
+  "country": "United States",
+  "code": "USA",
+  "year": "2021",
+  "value": 457832
+ },
+ {
+  "country": "United States",
+  "code": "USA",
+  "year": "2022",
+  "value": 244518
+ },
+ {
+  "country": "United States",
+  "code": "USA",
+  "year": "2023",
+  "value": 74768
+ },
+ {
+  "country": "Lithuania",
+  "code": "LTU",
+  "year": "2020",
+  "value": 2523
+ },
+ {
+  "country": "Lithuania",
+  "code": "LTU",
+  "year": "2021",
+  "value": 5586
+ },
+ {
+  "country": "Lithuania",
+  "code": "LTU",
+  "year": "2022",
+  "value": 1250
+ },
+ {
+  "country": "Lithuania",
+  "code": "LTU",
+  "year": "2023",
+  "value": 128
+ },
+ {
+  "country": "Austria",
+  "code": "AUT",
+  "year": "2020",
+  "value": 7795
+ },
+ {
+  "country": "Austria",
+  "code": "AUT",
+  "year": "2021",
+  "value": 9033
+ },
+ {
+  "country": "Austria",
+  "code": "AUT",
+  "year": "2022",
+  "value": 4902
+ },
+ {
+  "country": "Sweden",
+  "code": "SWE",
+  "year": "2020",
+  "value": 10085
+ },
+ {
+  "country": "Sweden",
+  "code": "SWE",
+  "year": "2021",
+  "value": 5288
+ },
+ {
+  "country": "Sweden",
+  "code": "SWE",
+  "year": "2022",
+  "value": 7044
+ },
+ {
+  "country": "Sweden",
+  "code": "SWE",
+  "year": "2023",
+  "value": 3151
+ },
+ {
+  "country": "Iceland",
+  "code": "ISL",
+  "year": "2020",
+  "value": 29
+ },
+ {
+  "country": "Iceland",
+  "code": "ISL",
+  "year": "2021",
+  "value": 9
+ },
+ {
+  "country": "France",
+  "code": "FRA",
+  "year": "2020",
+  "value": 66828
+ },
+ {
+  "country": "France",
+  "code": "FRA",
+  "year": "2021",
+  "value": 61246
+ },
+ {
+  "country": "France",
+  "code": "FRA",
+  "year": "2022",
+  "value": 38046
+ },
+ {
+  "country": "Japan",
+  "code": "JPN",
+  "year": "2020",
+  "value": 3548
+ },
+ {
+  "country": "Japan",
+  "code": "JPN",
+  "year": "2021",
+  "value": 14847
+ },
+ {
+  "country": "Japan",
+  "code": "JPN",
+  "year": "2022",
+  "value": 39326
+ },
+ {
+  "country": "Japan",
+  "code": "JPN",
+  "year": "2023",
+  "value": 16973
+ },
+ {
+  "country": "Latvia",
+  "code": "LVA",
+  "year": "2020",
+  "value": 728
+ },
+ {
+  "country": "Latvia",
+  "code": "LVA",
+  "year": "2021",
+  "value": 4159
+ },
+ {
+  "country": "Latvia",
+  "code": "LVA",
+  "year": "2022",
+  "value": 2171
+ },
+ {
+  "country": "Latvia",
+  "code": "LVA",
+  "year": "2023",
+  "value": 407
+ },
+ {
+  "country": "France",
+  "code": "FRA",
+  "year": "2023",
+  "value": 5565
+ },
+ {
+  "country": "Norway",
+  "code": "NOR",
+  "year": "2021",
+  "value": 888
+ },
+ {
+  "country": "Norway",
+  "code": "NOR",
+  "year": "2022",
+  "value": 596
+ },
+ {
+  "country": "Chile",
+  "code": "CHL",
+  "year": "2020",
+  "value": 16724
+ },
+ {
+  "country": "Chile",
+  "code": "CHL",
+  "year": "2021",
+  "value": 22416
+ },
+ {
+  "country": "Chile",
+  "code": "CHL",
+  "year": "2022",
+  "value": 24032
+ },
+ {
+  "country": "Chile",
+  "code": "CHL",
+  "year": "2023",
+  "value": -968
+ },
+ {
+  "country": "Belgium",
+  "code": "BEL",
+  "year": "2023",
+  "value": 748
+ },
+ {
+  "country": "Spain",
+  "code": "ESP",
+  "year": "2020",
+  "value": 55251
+ },
+ {
+  "country": "Spain",
+  "code": "ESP",
+  "year": "2021",
+  "value": 36755
+ },
+ {
+  "country": "Spain",
+  "code": "ESP",
+  "year": "2022",
+  "value": 27147
+ },
+ {
+  "country": "Korea",
+  "code": "KOR",
+  "year": "2020",
+  "value": 962
+ },
+ {
+  "country": "Korea",
+  "code": "KOR",
+  "year": "2021",
+  "value": 4768
+ },
+ {
+  "country": "Korea",
+  "code": "KOR",
+  "year": "2022",
+  "value": 26571
+ },
+ {
+  "country": "Korea",
+  "code": "KOR",
+  "year": "2023",
+  "value": 3633
+ },
+ {
+  "country": "Korea",
+  "code": "KOR",
+  "year": "2024",
+  "value": 0
+ },
+ {
+  "country": "Austria",
+  "code": "AUT",
+  "year": "2023",
+  "value": 871
+ },
+ {
+  "country": "New Zealand",
+  "code": "NZL",
+  "year": "2020",
+  "value": 25
+ },
+ {
+  "country": "New Zealand",
+  "code": "NZL",
+  "year": "2021",
+  "value": 26
+ },
+ {
+  "country": "New Zealand",
+  "code": "NZL",
+  "year": "2022",
+  "value": 2280
+ },
+ {
+  "country": "New Zealand",
+  "code": "NZL",
+  "year": "2023",
+  "value": 1292
+ },
+ {
+  "country": "Germany",
+  "code": "DEU",
+  "year": "2020",
+  "value": 52743
+ },
+ {
+  "country": "Germany",
+  "code": "DEU",
+  "year": "2021",
+  "value": 65968
+ },
+ {
+  "country": "Germany",
+  "code": "DEU",
+  "year": "2022",
+  "value": 47987
+ },
+ {
+  "country": "Germany",
+  "code": "DEU",
+  "year": "2023",
+  "value": 8271
+ },
+ {
+  "country": "Switzerland",
+  "code": "CHE",
+  "year": "2020",
+  "value": 7756
+ },
+ {
+  "country": "Switzerland",
+  "code": "CHE",
+  "year": "2021",
+  "value": 4207
+ },
+ {
+  "country": "Switzerland",
+  "code": "CHE",
+  "year": "2022",
+  "value": 1921
+ },
+ {
+  "country": "Switzerland",
+  "code": "CHE",
+  "year": "2023",
+  "value": 290
+ },
+ {
+  "country": "Hungary",
+  "code": "HUN",
+  "year": "2020",
+  "value": 10562
+ },
+ {
+  "country": "Hungary",
+  "code": "HUN",
+  "year": "2021",
+  "value": 28075
+ },
+ {
+  "country": "Hungary",
+  "code": "HUN",
+  "year": "2022",
+  "value": 8789
+ },
+ {
+  "country": "Hungary",
+  "code": "HUN",
+  "year": "2023",
+  "value": 313
+ },
+ {
+  "country": "Norway",
+  "code": "NOR",
+  "year": "2020",
+  "value": 547
+ },
+ {
+  "country": "Canada",
+  "code": "CAN",
+  "year": "2020",
+  "value": 15632
+ },
+ {
+  "country": "Canada",
+  "code": "CAN",
+  "year": "2021",
+  "value": 14392
+ },
+ {
+  "country": "Canada",
+  "code": "CAN",
+  "year": "2022",
+  "value": 18747
+ },
+ {
+  "country": "Canada",
+  "code": "CAN",
+  "year": "2023",
+  "value": 4979
+ },
+ {
+  "country": "Colombia",
+  "code": "COL",
+  "year": "2020",
+  "value": 43495
+ },
+ {
+  "country": "Colombia",
+  "code": "COL",
+  "year": "2021",
+  "value": 86447
+ },
+ {
+  "country": "Colombia",
+  "code": "COL",
+  "year": "2022",
+  "value": 12237
+ },
+ {
+  "country": "Colombia",
+  "code": "COL",
+  "year": "2023",
+  "value": 548
+ },
+ {
+  "country": "Greece",
+  "code": "GRC",
+  "year": "2020",
+  "value": 5002
+ },
+ {
+  "country": "Greece",
+  "code": "GRC",
+  "year": "2021",
+  "value": 16006
+ },
+ {
+  "country": "Greece",
+  "code": "GRC",
+  "year": "2022",
+  "value": 14122
+ },
+ {
+  "country": "Greece",
+  "code": "GRC",
+  "year": "2023",
+  "value": 2946
+ },
+ {
+  "country": "Estonia",
+  "code": "EST",
+  "year": "2020",
+  "value": 323
+ },
+ {
+  "country": "Estonia",
+  "code": "EST",
+  "year": "2021",
+  "value": 1528
+ },
+ {
+  "country": "Estonia",
+  "code": "EST",
+  "year": "2022",
+  "value": 895
+ },
+ {
+  "country": "Estonia",
+  "code": "EST",
+  "year": "2023",
+  "value": 174
+ },
+ {
+  "country": "Slovak Republic",
+  "code": "SVK",
+  "year": "2020",
+  "value": 3410
+ },
+ {
+  "country": "Slovak Republic",
+  "code": "SVK",
+  "year": "2021",
+  "value": 13540
+ },
+ {
+  "country": "Slovak Republic",
+  "code": "SVK",
+  "year": "2022",
+  "value": 2498
+ },
+ {
+  "country": "Slovak Republic",
+  "code": "SVK",
+  "year": "2023",
+  "value": 146
+ },
+ {
+  "country": "Israel",
+  "code": "ISR",
+  "year": "2020",
+  "value": 3433
+ },
+ {
+  "country": "Israel",
+  "code": "ISR",
+  "year": "2021",
+  "value": 4829
+ },
+ {
+  "country": "Israel",
+  "code": "ISR",
+  "year": "2022",
+  "value": 3805
+ },
+ {
+  "country": "Israel",
+  "code": "ISR",
+  "year": "2023",
+  "value": 640
+ },
+ {
+  "country": "Iceland",
+  "code": "ISL",
+  "year": "2022",
+  "value": 148
+ },
+ {
+  "country": "Spain",
+  "code": "ESP",
+  "year": "2023",
+  "value": 2699
+ },
+ {
+  "country": "Luxembourg",
+  "code": "LUX",
+  "year": "2020",
+  "value": 295
+ },
+ {
+  "country": "Luxembourg",
+  "code": "LUX",
+  "year": "2021",
+  "value": 345
+ },
+ {
+  "country": "Luxembourg",
+  "code": "LUX",
+  "year": "2022",
+  "value": 321
+ },
+ {
+  "country": "Czechia",
+  "code": "CZE",
+  "year": "2020",
+  "value": 12461
+ },
+ {
+  "country": "Czechia",
+  "code": "CZE",
+  "year": "2021",
+  "value": 24026
+ },
+ {
+  "country": "Czechia",
+  "code": "CZE",
+  "year": "2022",
+  "value": 5681
+ },
+ {
+  "country": "Czechia",
+  "code": "CZE",
+  "year": "2023",
+  "value": 873
+ },
+ {
+  "country": "Poland",
+  "code": "POL",
+  "year": "2020",
+  "value": 29179
+ },
+ {
+  "country": "Poland",
+  "code": "POL",
+  "year": "2021",
+  "value": 68795
+ },
+ {
+  "country": "Poland",
+  "code": "POL",
+  "year": "2022",
+  "value": 20953
+ },
+ {
+  "country": "Poland",
+  "code": "POL",
+  "year": "2023",
+  "value": 1311
+ },
+ {
+  "country": "Portugal",
+  "code": "PRT",
+  "year": "2020",
+  "value": 7225
+ },
+ {
+  "country": "Portugal",
+  "code": "PRT",
+  "year": "2021",
+  "value": 11777
+ },
+ {
+  "country": "Portugal",
+  "code": "PRT",
+  "year": "2022",
+  "value": 6821
+ },
+ {
+  "country": "Portugal",
+  "code": "PRT",
+  "year": "2023",
+  "value": 1960
+ },
+ {
+  "country": "T\u00c3\u00bcrkiye",
+  "code": "TUR",
+  "year": "2020",
+  "value": 21295
+ },
+ {
+  "country": "T\u00c3\u00bcrkiye",
+  "code": "TUR",
+  "year": "2021",
+  "value": 61111
+ },
+ {
+  "country": "T\u00c3\u00bcrkiye",
+  "code": "TUR",
+  "year": "2022",
+  "value": 19013
+ },
+ {
+  "country": "T\u00c3\u00bcrkiye",
+  "code": "TUR",
+  "year": "2023",
+  "value": 0
+ },
+ {
+  "country": "Luxembourg",
+  "code": "LUX",
+  "year": "2023",
+  "value": 39
+ },
+ {
+  "country": "United States",
+  "code": "USA",
+  "year": "2024",
+  "value": 3861
+ },
+ {
+  "country": "Australia",
+  "code": "AUS",
+  "year": "2024",
+  "value": 54
+ },
+ {
+  "country": "New Zealand",
+  "code": "NZL",
+  "year": "2024",
+  "value": 22
+ },
+ {
+  "country": "Switzerland",
+  "code": "CHE",
+  "year": "2024",
+  "value": 0
+ },
+ {
+  "country": "Canada",
+  "code": "CAN",
+  "year": "2024",
+  "value": 16
+ },
+ {
+  "country": "Mexico",
+  "code": "MEX",
+  "year": "2024",
+  "value": 0
+ },
+ {
+  "country": "Japan",
+  "code": "JPN",
+  "year": "2024",
+  "value": 0
+ },
+ {
+  "country": "Iceland",
+  "code": "ISL",
+  "year": "2023",
+  "value": 0
+ },
+ {
+  "country": "Israel",
+  "code": "ISR",
+  "year": "2024",
+  "value": 0
+ },
+ {
+  "country": "T\u00c3\u00bcrkiye",
+  "code": "TUR",
+  "year": "2024",
+  "value": 0
+ },
+ {
+  "country": "Chile",
+  "code": "CHL",
+  "year": "2024",
+  "value": 16
+ },
+ {
+  "country": "Colombia",
+  "code": "COL",
+  "year": "2024",
+  "value": 0
+ },
+ {
+  "country": "Costa Rica",
+  "code": "CRI",
+  "year": "2020",
+  "value": 2193
+ },
+ {
+  "country": "Costa Rica",
+  "code": "CRI",
+  "year": "2021",
+  "value": 5164
+ },
+ {
+  "country": "Costa Rica",
+  "code": "CRI",
+  "year": "2022",
+  "value": 1728
+ },
+ {
+  "country": "Costa Rica",
+  "code": "CRI",
+  "year": "2023",
+  "value": 283
+ },
+ {
+  "country": "Costa Rica",
+  "code": "CRI",
+  "year": "2024",
+  "value": 0
+ }
+]

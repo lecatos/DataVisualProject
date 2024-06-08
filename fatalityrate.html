@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="description" content="Book Process" />
+    <meta name="keywords" content="HTML, CSS" />
+    <meta name="author" content="Vireak Punhak Vorn Tan" />
+
+    <title>Covid 19 Fatality Rate</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script type="text/javascript"
+        src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.2.1.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            init();
+        }); 
+    </script>
+    <style>
+        .line {
+            fill: none;
+            stroke: slategrey;
+            stroke-width: 0.5;
+        }
+    </style>
+</head>
+
+<body style="background-color: lightyellow;">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="#">Covid19</a>
+        <div class="collapse navbar-collapse" id="navbarNavDropdown">
+            <ul class="navbar-nav">
+                <li class="nav-item active">
+                    <a class="nav-link" href="covid19.html">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="linechart.html">Death, Case & Vacination</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="fatalityrate.html">Fatality Rate</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    <div class="d-flex justify-content-center">
+        <h1 class="display-6">What are the COVID-19 mortality rates in different countries and regions?</h1>
+    </div>
+    <p class="m-5 px-5 lead d-flex justify-content-center">
+        Step into the world of COVID-19 mortality rates, where data tells a story of resilience, challenges, and hope.
+        Our colorful pie chart paints a vivid picture of the pandemic's impact across countries and regions, answering
+        the pressing question: What are the COVID-19 mortality rates in different countries and regions?
+
+        As you explore this dynamic visualization, you embark on a journey of discovery. Each slice of the pie
+        represents a nation, offering insights into its unique battle against the virus. With colors carefully chosen to
+        draw you in, the chart captivates your attention while conveying the severity of the situation with clarity.
+
+        But this isn't just about admiring colorful graphics—it's about understanding, analyzing, and taking action. By
+        engaging with the data, you gain valuable insights that can drive real-world impact. Policymakers and public
+        health officials can make informed decisions about interventions and resource distribution, ensuring that help
+        reaches where it's needed most.
+
+        For researchers and epidemiologists, this visualization provides a treasure trove of detailed insights. It
+        offers a window into the factors influencing COVID-19 mortality and the effectiveness of vaccinations, guiding
+        the development of targeted strategies and interventions.
+
+        But the benefits extend beyond the realm of academia and policymaking. By highlighting successful strategies and
+        best practices from regions with lower mortality rates, the chart empowers communities to learn from each other
+        and adapt their responses accordingly.
+    </p>
+    <p class="mx-5 lead d-flex justify-content-center">
+        This visualization educates and empowers the public. By promoting informed
+        community behavior and compliance with health guidelines, it plays a crucial role in slowing the spread of the
+        virus and saving lives.
+
+        Through international collaboration and shared understanding, we can overcome the challenges posed by COVID-19.
+        Together, we build a knowledge base that prepares us for future pandemics, ensuring a healthier, more resilient
+        world for generations to come.
+    </p>
+    <div class="d-flex flex-row bd-highlight mb-3 justify-content-center">
+        <div id="checkboxescontainer" class="d-flex flex-column">
+            <div id="checkboxmessage"></div>
+            <div id="countrycheckboxes" class="overflow-auto d-flex flex-column bd-highlight mb-3 form-check"></div>
+        </div>
+        <div class="d-flex justify-content-center p-3"><svg id="chart3"></svg></div>
+        <div id="countrylegends" class="d-flex flex-column p-2"></div>
+    </div>
+    <div id="tooltip2" data-toggle="tooltip" data-html="true" data-placement="right" title="Tooltip for image"
+    data-animation="false" data-trigger="manual"></div>
+    <script src="fatalityrate.js"></script>
+    <footer>
+        <p>COS30045 Data Visualisation</p>
+        <p>CL01_T06</p>
+    </footer>
+</body>
+
+</html>

@@ -1,0 +1,268 @@
+[
+ {
+  "country": "World",
+  "code": "WORLD",
+  "fatality_rate": 0.0185,
+  "total_death": 408839,
+  "total_case": 22086218
+ },
+ {
+  "country": "Australia",
+  "code": "AUS",
+  "fatality_rate": 0.0021,
+  "total_death": 24265,
+  "total_case": 11762242.0
+ },
+ {
+  "country": "Austria",
+  "code": "AUT",
+  "fatality_rate": 0.0037,
+  "total_death": 22601,
+  "total_case": 6080775.0
+ },
+ {
+  "country": "Belgium",
+  "code": "BEL",
+  "fatality_rate": 0.007,
+  "total_death": 33552,
+  "total_case": 4801652.0
+ },
+ {
+  "country": "Canada",
+  "code": "CAN",
+  "fatality_rate": 0.0113,
+  "total_death": 53766,
+  "total_case": 4773481.0
+ },
+ {
+  "country": "Colombia",
+  "code": "COL",
+  "fatality_rate": 0.0224,
+  "total_death": 142727,
+  "total_case": 6373313.0
+ },
+ {
+  "country": "Costa Rica",
+  "code": "CRI",
+  "fatality_rate": 0.0076,
+  "total_death": 9368,
+  "total_case": 1230653.0
+ },
+ {
+  "country": "Czechia",
+  "code": "CZE",
+  "fatality_rate": 0.0092,
+  "total_death": 43041,
+  "total_case": 4690345.0
+ },
+ {
+  "country": "Denmark",
+  "code": "DNK",
+  "fatality_rate": 0.0008,
+  "total_death": 2896,
+  "total_case": 3421904.0
+ },
+ {
+  "country": "Estonia",
+  "code": "EST",
+  "fatality_rate": 0.0048,
+  "total_death": 2920,
+  "total_case": 604930.0
+ },
+ {
+  "country": "Finland",
+  "code": "FIN",
+  "fatality_rate": 0.0069,
+  "total_death": 10278,
+  "total_case": 1486359.0
+ },
+ {
+  "country": "France",
+  "code": "FRA",
+  "fatality_rate": 0.0044,
+  "total_death": 171685,
+  "total_case": 38997490.0
+ },
+ {
+  "country": "Germany",
+  "code": "DEU",
+  "fatality_rate": 0.0046,
+  "total_death": 174969,
+  "total_case": 38436657.0
+ },
+ {
+  "country": "Greece",
+  "code": "GRC",
+  "fatality_rate": 0.0069,
+  "total_death": 38076,
+  "total_case": 5497710.0
+ },
+ {
+  "country": "Hungary",
+  "code": "HUN",
+  "fatality_rate": 0.0216,
+  "total_death": 47739,
+  "total_case": 2214721.0
+ },
+ {
+  "country": "Iceland",
+  "code": "ISL",
+  "fatality_rate": 0.001,
+  "total_death": 186,
+  "total_case": 189433.0
+ },
+ {
+  "country": "Ireland",
+  "code": "IRL",
+  "fatality_rate": 0.0053,
+  "total_death": 9087,
+  "total_case": 1725769.0
+ },
+ {
+  "country": "Israel",
+  "code": "ISR",
+  "fatality_rate": 0.0026,
+  "total_death": 12707,
+  "total_case": 4841558.0
+ },
+ {
+  "country": "Italy",
+  "code": "ITA",
+  "fatality_rate": 0.0076,
+  "total_death": 201277,
+  "total_case": 26390884.0
+ },
+ {
+  "country": "Japan",
+  "code": "JPN",
+  "fatality_rate": 0.0022,
+  "total_death": 74694,
+  "total_case": 33803572.0
+ },
+ {
+  "country": "Korea",
+  "code": "KOR",
+  "fatality_rate": 0.001,
+  "total_death": 35934,
+  "total_case": 34571873.0
+ },
+ {
+  "country": "Latvia",
+  "code": "LVA",
+  "fatality_rate": 0.0076,
+  "total_death": 7465,
+  "total_case": 977701.0
+ },
+ {
+  "country": "Lithuania",
+  "code": "LTU",
+  "fatality_rate": 0.007,
+  "total_death": 9487,
+  "total_case": 1350542.0
+ },
+ {
+  "country": "Luxembourg",
+  "code": "LUX",
+  "fatality_rate": 0.0026,
+  "total_death": 1000,
+  "total_case": 380092.0
+ },
+ {
+  "country": "Mexico",
+  "code": "MEX",
+  "fatality_rate": 0.0434,
+  "total_death": 334958,
+  "total_case": 7709747.0
+ },
+ {
+  "country": "Netherlands",
+  "code": "NLD",
+  "fatality_rate": 0.0027,
+  "total_death": 22986,
+  "total_case": 8566067.0
+ },
+ {
+  "country": "New Zealand",
+  "code": "NZL",
+  "fatality_rate": 0.0015,
+  "total_death": 3645,
+  "total_case": 2470690.0
+ },
+ {
+  "country": "Norway",
+  "code": "NOR",
+  "fatality_rate": 0.0014,
+  "total_death": 2031,
+  "total_case": 1465379.0
+ },
+ {
+  "country": "Poland",
+  "code": "POL",
+  "fatality_rate": 0.0183,
+  "total_death": 120238,
+  "total_case": 6560600.0
+ },
+ {
+  "country": "Portugal",
+  "code": "PRT",
+  "fatality_rate": 0.0049,
+  "total_death": 27783,
+  "total_case": 5634428.0
+ },
+ {
+  "country": "Slovak Republic",
+  "code": "SVK",
+  "fatality_rate": 0.0105,
+  "total_death": 19594,
+  "total_case": 1870259.0
+ },
+ {
+  "country": "Slovenia",
+  "code": "SVN",
+  "fatality_rate": 0.0071,
+  "total_death": 9605,
+  "total_case": 1349567.0
+ },
+ {
+  "country": "Spain",
+  "code": "ESP",
+  "fatality_rate": 0.0087,
+  "total_death": 121852,
+  "total_case": 13978573.0
+ },
+ {
+  "country": "Sweden",
+  "code": "SWE",
+  "fatality_rate": 0.0094,
+  "total_death": 25568,
+  "total_case": 2733563.0
+ },
+ {
+  "country": "Switzerland",
+  "code": "CHE",
+  "fatality_rate": 0.0032,
+  "total_death": 14174,
+  "total_case": 4450967.0
+ },
+ {
+  "country": "Turkey",
+  "code": "TUR",
+  "fatality_rate": 0.006,
+  "total_death": 101419,
+  "total_case": 17004702.0
+ },
+ {
+  "country": "United Kingdom",
+  "code": "GBR",
+  "fatality_rate": 0.0301,
+  "total_death": 747711,
+  "total_case": 24865181.0
+ },
+ {
+  "country": "United States",
+  "code": "USA",
+  "fatality_rate": 0.0113,
+  "total_death": 1173797,
+  "total_case": 103436829.0
+ }
+]

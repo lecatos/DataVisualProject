@@ -1,0 +1,98 @@
+path:hover {
+  stroke: whitesmoke;
+  /* Change the stroke color */
+  stroke-width: 2px;
+  /* Increase the stroke width */
+}
+
+.container {
+  position: relative;
+}
+
+.center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+#countrybtns {
+  max-height: 500px;
+}
+
+#countrycheckboxes {
+  max-height: 500px;
+}
+
+.line {
+  fill: none;
+  stroke: red;
+  stroke-width: 0.5;
+}
+
+.line2 {
+  fill: none;
+  stroke: yellow;
+  stroke-width: 0.5;
+}
+
+.line3 {
+  fill: none;
+  stroke: greenyellow;
+  stroke-width: 0.5;
+}
+
+#cir_case {
+  fill: yellow;
+  stroke: white;
+  stroke-width: 1;
+}
+
+#cir_death {
+  fill: red;
+  stroke: white;
+  stroke-width: 1;
+}
+
+#cir_vac {
+  fill: greenyellow;
+  stroke: white;
+  stroke-width: 1;
+}
+
+.yearbtn {
+  width: 100px;
+}
+
+.legend {
+  width: 10px;
+  height: 10px;
+  -ms-transform: translateY(70%);
+  transform: translateY(70%);
+  border-color: black;
+  border-width: medium;
+}
+
+.legendcol {
+  width: 15px;
+  height: 15px;
+  position: relative;
+  top: 20px;
+  left: -15px;
+  border-color: black;
+  border-width: medium;
+}
+
+#legend_case {
+  background-color: yellow;
+}
+
+#legend_death {
+  background-color: red;
+}
+
+#legend_vac {
+  background-color: greenyellow;
+}
