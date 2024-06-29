@@ -115,7 +115,7 @@ function makeCheckBoxes() {
 }
 //check for number of checked boxes and disable the rest
 function updateBoxes() {
-    if (false && $('.checkboxes:checked').length >= color.range().length) {
+    if ($('.checkboxes:checked').length >= color.range().length) {
         $(".checkboxes:not(:checked)").attr("disabled", true);
     } else {
         $(".checkboxes:not(:checked)").attr("disabled", false);
